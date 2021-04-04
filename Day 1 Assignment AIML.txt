@@ -1,0 +1,10 @@
+Name: Shreyas D. Chimote
+Day 1 Assignment AIML
+
+Q1. Explain Machine Learning with your own example?
+Ans=>	Machine learning is a Part of artificial intelligence which creates applications that learn from data 
+	and improve their accuracy over time. 
+	In machine learning, algorithms are 'trained' to find patterns and features in huge amounts of 
+	data in order to make decisions and predictions based on the data.
+Example=> Smart assistants is a machine learning models to interpret speech and provides Result to us.
+	  Self-Driving Cars can recognize a object infront of it and take decision based on the circumstances.
